@@ -1,2 +1,2 @@
 # ITI-training
-this is some web templates i made in this training
+this is some templates i made that is not responsive.
